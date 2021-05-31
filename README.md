@@ -4,7 +4,7 @@
  
   ## Download do Aplicativo
   Para baixar o aplicativo em seu smartphone *Android*:
- 1. Clique aqui: [Download APK](https://github.com/aquinoartur/youtube_fav/blob/main/assets/to_readme/yt_fav.apk)
+ 1. Clique aqui: [Download APK](https://drive.google.com/u/0/uc?id=1wvfmVJIbdcVNF4TPbCxRm4pBHjqDLwI1&export=download)
  2. Em seguida clique em **Download**.
 
  
