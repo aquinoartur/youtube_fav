@@ -5,10 +5,10 @@
  <img width="350" height="800" src="assets/to_readme/presentation.gif">
  <p/>
  
-  ## Download do Aplicativo
-  Para baixar o aplicativo em seu smartphone *Android*:
- 1. Clique aqui: [Download APK](https://drive.google.com/u/0/uc?id=1wvfmVJIbdcVNF4TPbCxRm4pBHjqDLwI1&export=download)
- 2. Em seguida aceite a instalação do APK em seu shmartphone.
+ ## Download do Aplicativo
+Baixe e instale o aplicativo em seu smartphone *Android*:
+[Download APK](https://drive.google.com/u/0/uc?id=1wvfmVJIbdcVNF4TPbCxRm4pBHjqDLwI1&export=download)
+
 
  
  ## Detalhes
