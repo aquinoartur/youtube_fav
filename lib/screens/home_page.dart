@@ -66,7 +66,7 @@ class HomePage extends StatelessWidget {
                   Container(
                     padding: EdgeInsets.only(top: 10, left: 16, right: 10,),
                     alignment: Alignment.centerLeft,
-                    child: Text("Meus favoritos", style: GoogleFonts.poppins(fontSize: 25),),
+                    child: Text("Meus favoritos", style: GoogleFonts.poppins(fontSize: 20),),
                   ),
                   StreamBuilder<Map<String, Video>>(
                     initialData: {},
