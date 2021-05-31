@@ -12,10 +12,10 @@ Baixe e instale o aplicativo em seu smartphone *Android*:
 
  
  ## Detalhes
- Neste App eu utilizo Bloc/Rx como gerência de estado. Para salvar os dados da lista de favoritos do usuário, faço uso do package `sared_preferences`, mantendo assim os dados salvos em um arquivo na memória interna do dispositivo.
+ Neste App eu utilizo Bloc/Rx como gerência de estado. Para salvar os dados da lista de favoritos do usuário, faço uso do package `shared_preferences`, mantendo assim os dados salvos em um arquivo na memória interna do dispositivo.
  
  ## Aprendizado
  * Utilização de Bloc/Rx.
- * Utilização de BD local com o `sared_preferences`.
+ * Utilização de BD local com o `sahred_preferences`.
  * Modularização e componentização de código.
  * Utilização e configuração do `SarchDelegate`.
