@@ -1,6 +1,9 @@
 # Favoritos do YouTube
  Aplicativo de pesquisa de vídeos e seleção de favoritos utilizando a API do YouTube.
  
+ <p align="center">
+ <img width="350" height="800" src="assets/to_readme/presentation.gif">
+ <p/>
  
   ## Download do Aplicativo
   Para baixar o aplicativo em seu smartphone *Android*:
