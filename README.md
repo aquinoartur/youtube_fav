@@ -2,7 +2,7 @@
  Aplicativo de pesquisa de vídeos e seleção de favoritos utilizando a API do YouTube.
  
  <p align="center">
- <img src="assets/to_readme/presentation.gif">
+ <img  width="300" height="625" src="assets/to_readme/presentation.gif">
  <p/>
  
  ## Download do Aplicativo
